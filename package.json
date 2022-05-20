@@ -1,0 +1,23 @@
+{
+  "name": "fcc",
+  "version": "1.0.0",
+  "description": "express boiler plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamsinghydv/fccExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamsinghydv/fccExpress/issues"
+  },
+  "homepage": "https://github.com/shivamsinghydv/fccExpress#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
